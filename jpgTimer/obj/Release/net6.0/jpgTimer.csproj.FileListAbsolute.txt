@@ -1,0 +1,15 @@
+C:\Users\coxan\RiderProjects\jpgTimer\jpgTimer\bin\Release\net6.0\jpgTimer.exe
+C:\Users\coxan\RiderProjects\jpgTimer\jpgTimer\bin\Release\net6.0\jpgTimer.deps.json
+C:\Users\coxan\RiderProjects\jpgTimer\jpgTimer\bin\Release\net6.0\jpgTimer.runtimeconfig.json
+C:\Users\coxan\RiderProjects\jpgTimer\jpgTimer\bin\Release\net6.0\jpgTimer.dll
+C:\Users\coxan\RiderProjects\jpgTimer\jpgTimer\bin\Release\net6.0\jpgTimer.pdb
+C:\Users\coxan\RiderProjects\jpgTimer\jpgTimer\obj\Release\net6.0\jpgTimer.csproj.AssemblyReference.cache
+C:\Users\coxan\RiderProjects\jpgTimer\jpgTimer\obj\Release\net6.0\jpgTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coxan\RiderProjects\jpgTimer\jpgTimer\obj\Release\net6.0\jpgTimer.AssemblyInfoInputs.cache
+C:\Users\coxan\RiderProjects\jpgTimer\jpgTimer\obj\Release\net6.0\jpgTimer.AssemblyInfo.cs
+C:\Users\coxan\RiderProjects\jpgTimer\jpgTimer\obj\Release\net6.0\jpgTimer.csproj.CoreCompileInputs.cache
+C:\Users\coxan\RiderProjects\jpgTimer\jpgTimer\obj\Release\net6.0\jpgTimer.dll
+C:\Users\coxan\RiderProjects\jpgTimer\jpgTimer\obj\Release\net6.0\refint\jpgTimer.dll
+C:\Users\coxan\RiderProjects\jpgTimer\jpgTimer\obj\Release\net6.0\jpgTimer.pdb
+C:\Users\coxan\RiderProjects\jpgTimer\jpgTimer\obj\Release\net6.0\jpgTimer.genruntimeconfig.cache
+C:\Users\coxan\RiderProjects\jpgTimer\jpgTimer\obj\Release\net6.0\ref\jpgTimer.dll
